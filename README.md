@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[AwardSpring](https://www.awardspring.com/)**  
-
-  Cloud-based scholarship management platform focused on a clean apply–review–award workflow for colleges, universities, and foundations.
-
-
-
-- **[Blackbaud Award Management (formerly AcademicWorks)](https://www.blackbaud.com/)**  
-
-  Higher-education focused award and scholarship management solution with strong campus and donor-reporting integration within the Blackbaud ecosystem.
-
-
-
-- **[Submittable](https://www.submittable.com/)**  
-
-  Flexible submission and review platform widely used for scholarships, grants, awards, and other application-based programs.
-
-
-
-- **[Reviewr](https://www.reviewr.com/)**  
-
-  Application and review management software designed for contests, scholarships, grants, and similar evaluation workflows.
-
-
-
-- **[SmarterSelect](https://www.smarterselect.com/)**  
-
-  Configurable application and scholarship management platform known for flexible forms and multi-program support at accessible pricing.
-
-
-
-- **[SurveyMonkey Apply](https://www.surveymonkey.com/apply/)**  
-
-  Application and review solution built on SurveyMonkey’s form and workflow capabilities for scholarships and awards.
-
-
-
-- **[OpenWater](https://www.getopenwater.com/)**  
-
-  Awards, abstract, and scholarship management platform with robust review, judging, and program administration features.
-
-
-
-- **[Foundant Scholarship Lifecycle / Grant Lifecycle](https://www.foundant.com/)**  
-
-  Tools supporting the full scholarship and grant lifecycle from application through reporting, popular with foundations.
-
-
-
-- **[AcademicWorks (Blackbaud)](https://www.blackbaud.com/)**  
-
-  Legacy/alternative naming for Blackbaud’s higher-ed scholarship and award management capabilities.
-
-
-
-- **[Scholarship Manager and related solutions](https://github.com/)**  
-
-  Additional commercial platforms focused specifically on institutional scholarship administration and disbursement coordination.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[AwardSpring](https://www.awardspring.com/)** | Cloud-based scholarship management platform focused on a clean apply–review–award workflow for colleges, universities, and foundations. | Starts at **$99/month** (NOW tier for 1 scholarship; +$29/mo per additional scholarship up to 5) or **$4,500/year** (PRO tier for up to 25 scholarships). | **14-day free trial** with full sandbox access to build application forms and test reviewer scoring workflows; no permanent free plan. |
+| **[SmarterSelect](https://www.smarterselect.com/)** | Configurable application and scholarship management platform featuring flexible dynamic forms, scoring rubrics, and multi-program administration. | Starts at **$2,000/year** (Create tier for standard programs); **$4,000/year** (Enhance tier with advanced evaluation workflows). | **14-day risk-free trial** allowing complete form creation, test submissions, and reviewer evaluation setup with data preserved upon upgrade; no permanent free plan. |
+| **[Submittable](https://www.submittable.com/)** | Flexible submission, review, and grant/scholarship management platform widely used by foundations, publishers, and academic institutions. | Starts at **$39/month** ($290/year billed annually) for CLMP literary members; standard organizational plans start at approx. **$399/month** (~$3,000–$4,800/year base) + $0.99 + 5% fee on collected applicant fees. | **Free forever for applicants** (unlimited scholarship submissions and file storage); **14-day administrator trial** with access to form builders and review pipeline testing. |
+| **[Reviewr](https://www.reviewr.com/)** | Application and review management platform designed for competitive scholarships, grants, awards, and multi-stage evaluation workflows. | Starts at **$1,500/year** (Basic tier for single-program intake and standard scoring rubrics; Standard/Prestige tiers scale up to $5,000+/year). | **14-day interactive trial sandbox** upon sales registration (sample submission templates and scoring workflows; no permanent free plan). |
+| **[SurveyMonkey Apply](https://www.surveymonkey.com/apply/)** | Application intake and review platform (formerly FluidReview) built on SurveyMonkey’s workflow engine for academic awards and scholarships. | Starts at **$4,000/year** (entry-level base subscription for small-scale intake programs + optional $500–$1,500 setup fee; education & non-profit discounts available). | **14-day guided proof-of-concept sandbox trial** available upon scheduling a demo with sales; no permanent free plan. |
+| **[OpenWater](https://www.getopenwater.com/)** | All-in-one awards, abstract, and scholarship management software with comprehensive review, judging, and program lifecycle controls. | Starts at **$6,900/year** (core awards & scholarship module with 1 TB media storage and standard reviewer portal; custom domain add-on at $1,200/year). | **14-day guided sandbox trial** with test intake forms, review rubrics, and administrator controls; no permanent free plan. |
+| **[Foundant Scholarship Lifecycle](https://www.foundant.com/)** | Specialized scholarship lifecycle manager (SLM) for community foundations and non-profits managing scholarship lifecycles from intake to award disbursement. | Starts at **$4,250/year** (Standard tier for foundations and non-profit grantmakers; Exponent Philanthropy member discounts available). | **30-day interactive demo sandbox trial** with sample student application pipelines and reviewer evaluation tools; no permanent free plan. |
+| **[Blackbaud Award Management](https://www.blackbaud.com/)** | Higher-education scholarship and award management platform (formerly AcademicWorks) with student information system (SIS) and donor-reporting integration. | Starts at approx. **$119/month** (~$1,428/year entry tier) with standard campus deployments ranging from **$3,000 to $10,000+/year** based on fund volume and SIS integrations. | **30-day guided evaluation sandbox** for higher-ed institutions upon demo consultation with Blackbaud education specialists; no permanent free plan. |
+| **[Scholarship Manager](https://www.nextgenwebsolutions.com/scholarship-manager/)** | Institutional scholarship administration solution by NextGen Web Solutions for donor fund matching, review committee routing, and financial aid disbursement. | Starts at **$2,500/year** (entry institutional tier for collegiate scholarship administration and financial aid disbursement coordination). | **14-day guided test trial** with full access to scholarship matching rules and reviewer scoring sandbox; no permanent free plan. |
 
 
 
