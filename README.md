@@ -75,66 +75,66 @@ Whether you represent a higher-education university financial aid department, a 
 
 ### ⭐ Ranked Repositories by Stars
 
-*(Ranked in descending order by GitHub Stars)*
+*(Ranked in descending order by GitHub_Stars)*
 
-- **[awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)** [![GitHub stars](https://img.shields.io/github/stars/anu0012/awesome-computer-science-opportunities?style=social&color=white)](https://github.com/anu0012/awesome-computer-science-opportunities/stargazers)  
+- **[awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)** [![GitHub_Stars](https://img.shields.io/github/stars/anu0012/awesome-computer-science-opportunities?style=social&color=white)](https://github.com/anu0012/awesome-computer-science-opportunities/stargazers)  
   🌟 Comprehensive curated directory of global scholarship programs, research fellowships, and grant opportunities with eligibility criteria and application deadlines.
 
-- **[Frappe LMS](https://github.com/frappe/lms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/lms?style=social&color=white)](https://github.com/frappe/lms/stargazers)  
+- **[Frappe LMS](https://github.com/frappe/lms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lms?style=social&color=white)](https://github.com/frappe/lms/stargazers)  
   🎓 100% open-source higher-education learning and lifecycle management system with extensible enrollment pipelines, user access controls, and evaluation workflows.
 
-- **[nitda-blockchain-scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship)** [![GitHub stars](https://img.shields.io/github/stars/calistus-igwilo/nitda-blockchain-scholarship?style=social&color=white)](https://github.com/calistus-igwilo/nitda-blockchain-scholarship/stargazers)  
+- **[nitda-blockchain-scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship)** [![GitHub_Stars](https://img.shields.io/github/stars/calistus-igwilo/nitda-blockchain-scholarship?style=social&color=white)](https://github.com/calistus-igwilo/nitda-blockchain-scholarship/stargazers)  
   ⛓️ Open scholarship curriculum and distributed management materials for large-scale national tech scholarship training programs.
 
-- **[GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships)** [![GitHub stars](https://img.shields.io/github/stars/Ladies-Storm-Hackathons/GHC-Scholarships?style=social&color=white)](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/stargazers)  
+- **[GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships)** [![GitHub_Stars](https://img.shields.io/github/stars/Ladies-Storm-Hackathons/GHC-Scholarships?style=social&color=white)](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/stargazers)  
   👩‍💻 Community-maintained repository of corporate, academic, and non-profit conference travel grants and diversity scholarships.
 
-- **[Women-Study-Abroad](https://github.com/Celiashea/Women-Study-Abroad)** [![GitHub stars](https://img.shields.io/github/stars/Celiashea/Women-Study-Abroad?style=social&color=white)](https://github.com/Celiashea/Women-Study-Abroad/stargazers)  
+- **[Women-Study-Abroad](https://github.com/Celiashea/Women-Study-Abroad)** [![GitHub_Stars](https://img.shields.io/github/stars/Celiashea/Women-Study-Abroad?style=social&color=white)](https://github.com/Celiashea/Women-Study-Abroad/stargazers)  
   🌏 Open-source international scholarship knowledge base and application guidance system for overseas university funding and grants.
 
-- **[awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship)** [![GitHub stars](https://img.shields.io/github/stars/arnas/awesome-pytorch-scholarship?style=social&color=white)](https://github.com/arnas/awesome-pytorch-scholarship/stargazers)  
+- **[awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship)** [![GitHub_Stars](https://img.shields.io/github/stars/arnas/awesome-pytorch-scholarship?style=social&color=white)](https://github.com/arnas/awesome-pytorch-scholarship/stargazers)  
   🔥 Curated repository of study tracks, application guidelines, and review strategies for tech challenge scholarships.
 
-- **[Skill-India-AI-ML-Scholarship](https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship)** [![GitHub stars](https://img.shields.io/github/stars/AshishJangra27/Skill-India-AI-ML-Scholarship?style=social&color=white)](https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship/stargazers)  
+- **[Skill-India-AI-ML-Scholarship](https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship)** [![GitHub_Stars](https://img.shields.io/github/stars/AshishJangra27/Skill-India-AI-ML-Scholarship?style=social&color=white)](https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship/stargazers)  
   🤖 Open repository for national scholarship training cohort track evaluation and project submissions.
 
-- **[one4All](https://github.com/Surajv311/one4All)** [![GitHub stars](https://img.shields.io/github/stars/Surajv311/one4All?style=social&color=white)](https://github.com/Surajv311/one4All/stargazers)  
+- **[one4All](https://github.com/Surajv311/one4All)** [![GitHub_Stars](https://img.shields.io/github/stars/Surajv311/one4All?style=social&color=white)](https://github.com/Surajv311/one4All/stargazers)  
   💻 Curated hub of student grants, open tech scholarships, internships, and educational funding opportunities.
 
-- **[ML-AI-Scholarships](https://github.com/MaryleenAmaizu/ML-AI-Scholarships)** [![GitHub stars](https://img.shields.io/github/stars/MaryleenAmaizu/ML-AI-Scholarships?style=social&color=white)](https://github.com/MaryleenAmaizu/ML-AI-Scholarships/stargazers)  
+- **[ML-AI-Scholarships](https://github.com/MaryleenAmaizu/ML-AI-Scholarships)** [![GitHub_Stars](https://img.shields.io/github/stars/MaryleenAmaizu/ML-AI-Scholarships?style=social&color=white)](https://github.com/MaryleenAmaizu/ML-AI-Scholarships/stargazers)  
   🧠 Curated repository of master's, doctoral, and post-doctoral fellowship grants and scholarships.
 
-- **[Scholarship-Application-Documents](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents)** [![GitHub stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=social&color=white)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)  
+- **[Scholarship-Application-Documents](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents)** [![GitHub_Stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=social&color=white)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)  
   📑 Elite Statements of Purpose (SOPs), academic CVs, research proposals, and review rubrics from successful international scholarship applicants.
 
-- **[diversity-index](https://github.com/svaksha/diversity-index)** [![GitHub stars](https://img.shields.io/github/stars/svaksha/diversity-index?style=social&color=white)](https://github.com/svaksha/diversity-index/stargazers)  
+- **[diversity-index](https://github.com/svaksha/diversity-index)** [![GitHub_Stars](https://img.shields.io/github/stars/svaksha/diversity-index?style=social&color=white)](https://github.com/svaksha/diversity-index/stargazers)  
   🌈 Curated diversity index and application repository of STEM grants, scholarships, and academic financial aid.
 
-- **[Wheres-My-Offer](https://github.com/ZE3kr/Wheres-My-Offer)** [![GitHub stars](https://img.shields.io/github/stars/ZE3kr/Wheres-My-Offer?style=social&color=white)](https://github.com/ZE3kr/Wheres-My-Offer/stargazers)  
+- **[Wheres-My-Offer](https://github.com/ZE3kr/Wheres-My-Offer)** [![GitHub_Stars](https://img.shields.io/github/stars/ZE3kr/Wheres-My-Offer?style=social&color=white)](https://github.com/ZE3kr/Wheres-My-Offer/stargazers)  
   📬 University admission and scholarship status tracking portal with notifications and status verification.
 
-- **[College-Hub](https://github.com/shiroonigami23-ui/College-Hub)** [![GitHub stars](https://img.shields.io/github/stars/shiroonigami23-ui/College-Hub?style=social&color=white)](https://github.com/shiroonigami23-ui/College-Hub/stargazers)  
+- **[College-Hub](https://github.com/shiroonigami23-ui/College-Hub)** [![GitHub_Stars](https://img.shields.io/github/stars/shiroonigami23-ui/College-Hub?style=social&color=white)](https://github.com/shiroonigami23-ui/College-Hub/stargazers)  
   🏫 Next.js + FastAPI institutional portal template with student admissions, scholarship notices, and application document processing.
 
-- **[SportsSphere](https://github.com/nikhilij/SportsSphere)** [![GitHub stars](https://img.shields.io/github/stars/nikhilij/SportsSphere?style=social&color=white)](https://github.com/nikhilij/SportsSphere/stargazers)  
+- **[SportsSphere](https://github.com/nikhilij/SportsSphere)** [![GitHub_Stars](https://img.shields.io/github/stars/nikhilij/SportsSphere?style=social&color=white)](https://github.com/nikhilij/SportsSphere/stargazers)  
   ⚽ Full-stack Node.js + PostgreSQL platform supporting athlete scholarship applications, eligibility management, and fund distribution.
 
-- **[scholarship-management](https://github.com/eftakhairul/scholarship-management)** [![GitHub stars](https://img.shields.io/github/stars/eftakhairul/scholarship-management?style=social&color=white)](https://github.com/eftakhairul/scholarship-management/stargazers)  
+- **[scholarship-management](https://github.com/eftakhairul/scholarship-management)** [![GitHub_Stars](https://img.shields.io/github/stars/eftakhairul/scholarship-management?style=social&color=white)](https://github.com/eftakhairul/scholarship-management/stargazers)  
   🎯 University scholarship management web application for student applications, committee reviews, and award approvals.
 
-- **[Blockchain-based-National-Scholarship-Portal](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal)** [![GitHub stars](https://img.shields.io/github/stars/LifnaJos/Blockchain-based-National-Scholarship-Portal?style=social&color=white)](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/stargazers)  
+- **[Blockchain-based-National-Scholarship-Portal](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal)** [![GitHub_Stars](https://img.shields.io/github/stars/LifnaJos/Blockchain-based-National-Scholarship-Portal?style=social&color=white)](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/stargazers)  
   🔐 Decentralized, tamper-proof scholarship management architecture designed for transparent student verification and anti-fraud distribution.
 
-- **[ScholarshipEvaluationManagementSystem](https://github.com/zongjixiaoai66/ScholarshipEvaluationManagementSystem)** [![GitHub stars](https://img.shields.io/github/stars/zongjixiaoai66/ScholarshipEvaluationManagementSystem?style=social&color=white)](https://github.com/zongjixiaoai66/ScholarshipEvaluationManagementSystem/stargazers)  
+- **[ScholarshipEvaluationManagementSystem](https://github.com/zongjixiaoai66/ScholarshipEvaluationManagementSystem)** [![GitHub_Stars](https://img.shields.io/github/stars/zongjixiaoai66/ScholarshipEvaluationManagementSystem?style=social&color=white)](https://github.com/zongjixiaoai66/ScholarshipEvaluationManagementSystem/stargazers)  
   📊 Full-stack Vue.js + Spring Boot academic evaluation and scholarship rating system featuring multi-role access for administrators, reviewers, and students.
 
-- **[ScholarSphere](https://github.com/sasindumal/ScholarSphere)** [![GitHub stars](https://img.shields.io/github/stars/sasindumal/ScholarSphere?style=social&color=white)](https://github.com/sasindumal/ScholarSphere/stargazers)  
+- **[ScholarSphere](https://github.com/sasindumal/ScholarSphere)** [![GitHub_Stars](https://img.shields.io/github/stars/sasindumal/ScholarSphere?style=social&color=white)](https://github.com/sasindumal/ScholarSphere/stargazers)  
   🌐 Open-source scholarship intake and evaluation software connecting applicants, review coordinators, and program administrators with Stripe payments.
 
-- **[scholarship-system](https://github.com/jotpalch/scholarship-system)** [![GitHub stars](https://img.shields.io/github/stars/jotpalch/scholarship-system?style=social&color=white)](https://github.com/jotpalch/scholarship-system/stargazers)  
+- **[scholarship-system](https://github.com/jotpalch/scholarship-system)** [![GitHub_Stars](https://img.shields.io/github/stars/jotpalch/scholarship-system?style=social&color=white)](https://github.com/jotpalch/scholarship-system/stargazers)  
   ⚡ FastAPI and Next.js configuration-driven scholarship application platform with multi-tier role permissions and audit observability.
 
-- **[ScholarTrack](https://github.com/Eztosin/ScholarTrack)** [![GitHub stars](https://img.shields.io/github/stars/Eztosin/ScholarTrack?style=social&color=white)](https://github.com/Eztosin/ScholarTrack/stargazers)  
+- **[ScholarTrack](https://github.com/Eztosin/ScholarTrack)** [![GitHub_Stars](https://img.shields.io/github/stars/Eztosin/ScholarTrack?style=social&color=white)](https://github.com/Eztosin/ScholarTrack/stargazers)  
   🔮 Modern glassmorphism dashboard for applicant discovery, deadline tracking, and automated scholarship pipeline management.
 
 ---
